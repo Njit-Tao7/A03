@@ -44,6 +44,23 @@ in code between two commits refer to <a href=" https://www.simplilearn.com/tutor
 * To get changes from other branches you can run git **fetch** or pull
     * Use pull when you have complete context about the changes you will be getting from your remote repository and adding to your local copy.
     * Use Fetch if only if you only want to see all the current branches and changes in your remote repository,
+
+## GLOSSARY
+* Branch : Copy of code taken to develop separately 
+* Clone: To create a new repo from an existing one 
+* Commit: The change that is applied to a repository
+* Fetch: Downloads commits, files, and refs from a remote repository into a local repository
+* GIT: An open source version control system that helps you keep track of the changing you make to documents.
+* Github :A cloud-based hosting service that lets you manage Git repositories.
+* Merge: An operation where two sets of changes are applied to a file
+* Merge Conflict: This is when Git is unable to automatically resolve differences
+  in code between two commits
+* Push: To copy changes from one repo into another initiated by a sender
+* Pull: To copy changes from one repo into another initiated by a receiver
+* Remote: Lets you create view, and delete connections to other repositories.
+* Repository: The location where a file's data is stored
+
+
 ## References
 * <a href="https://devmountain.com/blog/git-vs-github-whats-the-difference/#:~:text=GitHub%E2%80%A6-,what's%20the%20difference%3F,help%20you%20better%20manage%20them">REFERENCE 1</a>
 * <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">REFERENCE 2</a>
